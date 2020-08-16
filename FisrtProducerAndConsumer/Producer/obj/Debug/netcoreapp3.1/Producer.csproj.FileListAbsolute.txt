@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\bin\Debug\netcoreapp3.1\Producer.exe
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\obj\Debug\netcoreapp3.1\Producer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfo.cs
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\bin\Debug\netcoreapp3.1\Producer.deps.json
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.json
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\bin\Debug\netcoreapp3.1\Producer.dll
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\bin\Debug\netcoreapp3.1\Producer.pdb
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CopyComplete
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\obj\Debug\netcoreapp3.1\Producer.dll
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\obj\Debug\netcoreapp3.1\Producer.pdb
+F:\C#\RabbitMQ\FisrtProducerAndConsumer\Producer\obj\Debug\netcoreapp3.1\Producer.genruntimeconfig.cache
