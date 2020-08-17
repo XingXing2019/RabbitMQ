@@ -1,0 +1,13 @@
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\bin\Debug\netcoreapp3.1\DirectExchange.exe
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\bin\Debug\netcoreapp3.1\DirectExchange.deps.json
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\bin\Debug\netcoreapp3.1\DirectExchange.runtimeconfig.json
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\bin\Debug\netcoreapp3.1\DirectExchange.runtimeconfig.dev.json
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\bin\Debug\netcoreapp3.1\DirectExchange.dll
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\bin\Debug\netcoreapp3.1\DirectExchange.pdb
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\obj\Debug\netcoreapp3.1\DirectExchange.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\obj\Debug\netcoreapp3.1\DirectExchange.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\obj\Debug\netcoreapp3.1\DirectExchange.AssemblyInfo.cs
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\obj\Debug\netcoreapp3.1\DirectExchange.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\obj\Debug\netcoreapp3.1\DirectExchange.dll
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\obj\Debug\netcoreapp3.1\DirectExchange.pdb
+F:\C#\RabbitMQ\DirectExchange\DirectExchange\obj\Debug\netcoreapp3.1\DirectExchange.genruntimeconfig.cache

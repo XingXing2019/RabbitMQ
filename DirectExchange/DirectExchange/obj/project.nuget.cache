@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOW3xo2GPOrps/5x1+lnig/3H+tL53AP4jVLtayij2PC/mhI3wxVmXLcSQeMMm/oGk6WfK/Ex32rV2WUIiIc5w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\RabbitMQ\\DirectExchange\\DirectExchange\\DirectExchange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
