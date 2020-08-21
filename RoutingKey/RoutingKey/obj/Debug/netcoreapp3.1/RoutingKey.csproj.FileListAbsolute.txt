@@ -1,0 +1,13 @@
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\bin\Debug\netcoreapp3.1\RoutingKey.exe
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\bin\Debug\netcoreapp3.1\RoutingKey.deps.json
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\bin\Debug\netcoreapp3.1\RoutingKey.runtimeconfig.json
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\bin\Debug\netcoreapp3.1\RoutingKey.runtimeconfig.dev.json
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\bin\Debug\netcoreapp3.1\RoutingKey.dll
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\bin\Debug\netcoreapp3.1\RoutingKey.pdb
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\obj\Debug\netcoreapp3.1\RoutingKey.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\obj\Debug\netcoreapp3.1\RoutingKey.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\obj\Debug\netcoreapp3.1\RoutingKey.AssemblyInfo.cs
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\obj\Debug\netcoreapp3.1\RoutingKey.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\obj\Debug\netcoreapp3.1\RoutingKey.dll
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\obj\Debug\netcoreapp3.1\RoutingKey.pdb
+F:\C#\RabbitMQ\RoutingKey\RoutingKey\obj\Debug\netcoreapp3.1\RoutingKey.genruntimeconfig.cache

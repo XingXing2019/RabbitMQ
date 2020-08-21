@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\bin\Debug\netcoreapp3.1\ElseConsumer.exe
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\obj\Debug\netcoreapp3.1\ElseConsumer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\obj\Debug\netcoreapp3.1\ElseConsumer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\obj\Debug\netcoreapp3.1\ElseConsumer.AssemblyInfo.cs
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\bin\Debug\netcoreapp3.1\ElseConsumer.deps.json
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\bin\Debug\netcoreapp3.1\ElseConsumer.runtimeconfig.json
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\bin\Debug\netcoreapp3.1\ElseConsumer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\bin\Debug\netcoreapp3.1\ElseConsumer.dll
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\bin\Debug\netcoreapp3.1\ElseConsumer.pdb
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\obj\Debug\netcoreapp3.1\ElseConsumer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\obj\Debug\netcoreapp3.1\ElseConsumer.csproj.CopyComplete
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\obj\Debug\netcoreapp3.1\ElseConsumer.dll
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\obj\Debug\netcoreapp3.1\ElseConsumer.pdb
+F:\C#\RabbitMQ\RoutingKey\ElseConsumer\obj\Debug\netcoreapp3.1\ElseConsumer.genruntimeconfig.cache

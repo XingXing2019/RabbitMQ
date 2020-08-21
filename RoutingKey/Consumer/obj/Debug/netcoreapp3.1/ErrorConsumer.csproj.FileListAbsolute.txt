@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\RoutingKey\Consumer\bin\Debug\netcoreapp3.1\ErrorConsumer.exe
+F:\C#\RabbitMQ\RoutingKey\Consumer\bin\Debug\netcoreapp3.1\ErrorConsumer.deps.json
+F:\C#\RabbitMQ\RoutingKey\Consumer\bin\Debug\netcoreapp3.1\ErrorConsumer.runtimeconfig.json
+F:\C#\RabbitMQ\RoutingKey\Consumer\bin\Debug\netcoreapp3.1\ErrorConsumer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\RoutingKey\Consumer\bin\Debug\netcoreapp3.1\ErrorConsumer.dll
+F:\C#\RabbitMQ\RoutingKey\Consumer\bin\Debug\netcoreapp3.1\ErrorConsumer.pdb
+F:\C#\RabbitMQ\RoutingKey\Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\RoutingKey\Consumer\obj\Debug\netcoreapp3.1\ErrorConsumer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\RoutingKey\Consumer\obj\Debug\netcoreapp3.1\ErrorConsumer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\RoutingKey\Consumer\obj\Debug\netcoreapp3.1\ErrorConsumer.AssemblyInfo.cs
+F:\C#\RabbitMQ\RoutingKey\Consumer\obj\Debug\netcoreapp3.1\ErrorConsumer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\RoutingKey\Consumer\obj\Debug\netcoreapp3.1\ErrorConsumer.csproj.CopyComplete
+F:\C#\RabbitMQ\RoutingKey\Consumer\obj\Debug\netcoreapp3.1\ErrorConsumer.dll
+F:\C#\RabbitMQ\RoutingKey\Consumer\obj\Debug\netcoreapp3.1\ErrorConsumer.pdb
+F:\C#\RabbitMQ\RoutingKey\Consumer\obj\Debug\netcoreapp3.1\ErrorConsumer.genruntimeconfig.cache

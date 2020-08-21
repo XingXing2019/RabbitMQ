@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NLr11ODbISQ/XpKnFfY6m0tphQsQdU1dODOiqeO0NqeAas5JIPcGTGMe8vtMaA4bvgKirwSKM5NCBfNTulfBGA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\RabbitMQ\\RoutingKey\\RoutingKey\\RoutingKey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
