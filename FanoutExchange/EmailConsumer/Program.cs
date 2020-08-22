@@ -9,7 +9,7 @@ namespace EmailConsumer
     {
         static void Main(string[] args)
         {
-            var exchange = "fanourExchange";
+            var exchange = "fanoutExchange";
             var emailQueue = "emailQueue";
 
             // Create factory

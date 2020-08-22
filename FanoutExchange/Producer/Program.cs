@@ -8,7 +8,7 @@ namespace Producer
     {
         static void Main(string[] args)
         {
-            var exchange = "fanourExchange";
+            var exchange = "fanoutExchange";
 
             // Create factory
             var factory = new ConnectionFactory

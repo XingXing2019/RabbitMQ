@@ -9,7 +9,7 @@ namespace SmsConsumer
     {
         static void Main(string[] args)
         {
-            var exchange = "fanourExchange";
+            var exchange = "fanoutExchange";
             var smsQueue = "smsQueue";
 
             // Create factory
