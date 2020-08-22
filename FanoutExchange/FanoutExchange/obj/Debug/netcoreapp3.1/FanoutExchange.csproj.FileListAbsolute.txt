@@ -1,0 +1,13 @@
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp3.1\FanoutExchange.exe
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp3.1\FanoutExchange.deps.json
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp3.1\FanoutExchange.runtimeconfig.json
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp3.1\FanoutExchange.runtimeconfig.dev.json
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp3.1\FanoutExchange.dll
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp3.1\FanoutExchange.pdb
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp3.1\FanoutExchange.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp3.1\FanoutExchange.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp3.1\FanoutExchange.AssemblyInfo.cs
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp3.1\FanoutExchange.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp3.1\FanoutExchange.dll
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp3.1\FanoutExchange.pdb
+F:\C#\RabbitMQ\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp3.1\FanoutExchange.genruntimeconfig.cache

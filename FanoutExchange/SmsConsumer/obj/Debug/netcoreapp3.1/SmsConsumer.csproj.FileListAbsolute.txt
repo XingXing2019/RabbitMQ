@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\bin\Debug\netcoreapp3.1\SmsConsumer.exe
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\obj\Debug\netcoreapp3.1\SmsConsumer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\obj\Debug\netcoreapp3.1\SmsConsumer.AssemblyInfo.cs
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\bin\Debug\netcoreapp3.1\SmsConsumer.deps.json
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\bin\Debug\netcoreapp3.1\SmsConsumer.runtimeconfig.json
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\bin\Debug\netcoreapp3.1\SmsConsumer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\bin\Debug\netcoreapp3.1\SmsConsumer.dll
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\bin\Debug\netcoreapp3.1\SmsConsumer.pdb
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\obj\Debug\netcoreapp3.1\SmsConsumer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\obj\Debug\netcoreapp3.1\SmsConsumer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\obj\Debug\netcoreapp3.1\SmsConsumer.csproj.CopyComplete
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\obj\Debug\netcoreapp3.1\SmsConsumer.dll
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\obj\Debug\netcoreapp3.1\SmsConsumer.pdb
+F:\C#\RabbitMQ\FanoutExchange\SmsConsumer\obj\Debug\netcoreapp3.1\SmsConsumer.genruntimeconfig.cache

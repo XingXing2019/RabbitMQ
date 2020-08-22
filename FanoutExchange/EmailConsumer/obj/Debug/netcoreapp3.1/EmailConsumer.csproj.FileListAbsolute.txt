@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\bin\Debug\netcoreapp3.1\EmailConsumer.exe
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\obj\Debug\netcoreapp3.1\EmailConsumer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\obj\Debug\netcoreapp3.1\EmailConsumer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\obj\Debug\netcoreapp3.1\EmailConsumer.AssemblyInfo.cs
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\bin\Debug\netcoreapp3.1\EmailConsumer.deps.json
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\bin\Debug\netcoreapp3.1\EmailConsumer.runtimeconfig.json
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\bin\Debug\netcoreapp3.1\EmailConsumer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\bin\Debug\netcoreapp3.1\EmailConsumer.dll
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\bin\Debug\netcoreapp3.1\EmailConsumer.pdb
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\obj\Debug\netcoreapp3.1\EmailConsumer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\obj\Debug\netcoreapp3.1\EmailConsumer.csproj.CopyComplete
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\obj\Debug\netcoreapp3.1\EmailConsumer.dll
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\obj\Debug\netcoreapp3.1\EmailConsumer.pdb
+F:\C#\RabbitMQ\FanoutExchange\EmailConsumer\obj\Debug\netcoreapp3.1\EmailConsumer.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wG9oQ7D92GPUFqLe9sjcnNbcT/Omcj0hn8LNYm4iu4XKUKDpDkjq6MphPCDz1kzHicQYCIJ5RXQl3lTzN4mAog==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\RabbitMQ\\FanoutExchange\\SmsConsumer\\SmsConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512",
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
