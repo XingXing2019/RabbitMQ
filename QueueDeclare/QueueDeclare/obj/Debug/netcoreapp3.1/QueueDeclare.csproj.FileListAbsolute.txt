@@ -1,0 +1,13 @@
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\bin\Debug\netcoreapp3.1\QueueDeclare.exe
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\bin\Debug\netcoreapp3.1\QueueDeclare.deps.json
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\bin\Debug\netcoreapp3.1\QueueDeclare.runtimeconfig.json
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\bin\Debug\netcoreapp3.1\QueueDeclare.runtimeconfig.dev.json
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\bin\Debug\netcoreapp3.1\QueueDeclare.dll
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\bin\Debug\netcoreapp3.1\QueueDeclare.pdb
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\obj\Debug\netcoreapp3.1\QueueDeclare.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\obj\Debug\netcoreapp3.1\QueueDeclare.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\obj\Debug\netcoreapp3.1\QueueDeclare.AssemblyInfo.cs
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\obj\Debug\netcoreapp3.1\QueueDeclare.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\obj\Debug\netcoreapp3.1\QueueDeclare.dll
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\obj\Debug\netcoreapp3.1\QueueDeclare.pdb
+F:\C#\RabbitMQ\QueueDeclare\QueueDeclare\obj\Debug\netcoreapp3.1\QueueDeclare.genruntimeconfig.cache
