@@ -1,0 +1,13 @@
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\bin\Debug\netcoreapp3.1\HeaderExchange.exe
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\obj\Debug\netcoreapp3.1\HeaderExchange.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\obj\Debug\netcoreapp3.1\HeaderExchange.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\obj\Debug\netcoreapp3.1\HeaderExchange.AssemblyInfo.cs
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\bin\Debug\netcoreapp3.1\HeaderExchange.deps.json
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\bin\Debug\netcoreapp3.1\HeaderExchange.runtimeconfig.json
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\bin\Debug\netcoreapp3.1\HeaderExchange.runtimeconfig.dev.json
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\bin\Debug\netcoreapp3.1\HeaderExchange.dll
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\bin\Debug\netcoreapp3.1\HeaderExchange.pdb
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\obj\Debug\netcoreapp3.1\HeaderExchange.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\obj\Debug\netcoreapp3.1\HeaderExchange.dll
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\obj\Debug\netcoreapp3.1\HeaderExchange.pdb
+F:\C#\RabbitMQ\HeaderExchange\HeaderExchange\obj\Debug\netcoreapp3.1\HeaderExchange.genruntimeconfig.cache

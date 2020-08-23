@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\bin\Debug\netcoreapp3.1\AllConsumer.exe
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\obj\Debug\netcoreapp3.1\AllConsumer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\obj\Debug\netcoreapp3.1\AllConsumer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\obj\Debug\netcoreapp3.1\AllConsumer.AssemblyInfo.cs
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\bin\Debug\netcoreapp3.1\AllConsumer.deps.json
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\bin\Debug\netcoreapp3.1\AllConsumer.runtimeconfig.json
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\bin\Debug\netcoreapp3.1\AllConsumer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\bin\Debug\netcoreapp3.1\AllConsumer.dll
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\bin\Debug\netcoreapp3.1\AllConsumer.pdb
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\obj\Debug\netcoreapp3.1\AllConsumer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\obj\Debug\netcoreapp3.1\AllConsumer.csproj.CopyComplete
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\obj\Debug\netcoreapp3.1\AllConsumer.dll
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\obj\Debug\netcoreapp3.1\AllConsumer.pdb
+F:\C#\RabbitMQ\HeaderExchange\AllConsumer\obj\Debug\netcoreapp3.1\AllConsumer.genruntimeconfig.cache
