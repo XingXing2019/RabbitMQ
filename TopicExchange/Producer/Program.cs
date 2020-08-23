@@ -30,13 +30,13 @@ namespace Producer
                 byte[] msg;
                 if (i % 2 == 0)
                 {
-                    routingKey = "www.ctrip.china.com";
-                    msg = Encoding.UTF8.GetBytes($"{i}: .com msg");
+                    routingKey = "www.ctrip.com";
+                    msg = Encoding.UTF8.GetBytes($"{i}: {routingKey} msg");
                 }
                 else
                 {
                     routingKey = "www.immi.china.gov";
-                    msg = Encoding.UTF8.GetBytes($"{i}: .gov msg");
+                    msg = Encoding.UTF8.GetBytes($"{i}: {routingKey} msg");
                 }
                 channel.BasicPublish(exchange, routingKey, null, msg);
             }
