@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\bin\Debug\netcoreapp3.1\SlowConsumer.exe
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\obj\Debug\netcoreapp3.1\SlowConsumer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\obj\Debug\netcoreapp3.1\SlowConsumer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\obj\Debug\netcoreapp3.1\SlowConsumer.AssemblyInfo.cs
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\bin\Debug\netcoreapp3.1\SlowConsumer.deps.json
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\bin\Debug\netcoreapp3.1\SlowConsumer.runtimeconfig.json
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\bin\Debug\netcoreapp3.1\SlowConsumer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\bin\Debug\netcoreapp3.1\SlowConsumer.dll
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\bin\Debug\netcoreapp3.1\SlowConsumer.pdb
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\obj\Debug\netcoreapp3.1\SlowConsumer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\obj\Debug\netcoreapp3.1\SlowConsumer.csproj.CopyComplete
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\obj\Debug\netcoreapp3.1\SlowConsumer.dll
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\obj\Debug\netcoreapp3.1\SlowConsumer.pdb
+F:\C#\RabbitMQ\DirectExchange\SlowConsumer\obj\Debug\netcoreapp3.1\SlowConsumer.genruntimeconfig.cache
