@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\bin\Debug\netcoreapp3.1\GovConsumer.exe
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\obj\Debug\netcoreapp3.1\GovConsumer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\obj\Debug\netcoreapp3.1\GovConsumer.AssemblyInfo.cs
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\bin\Debug\netcoreapp3.1\GovConsumer.deps.json
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\bin\Debug\netcoreapp3.1\GovConsumer.runtimeconfig.json
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\bin\Debug\netcoreapp3.1\GovConsumer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\bin\Debug\netcoreapp3.1\GovConsumer.dll
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\bin\Debug\netcoreapp3.1\GovConsumer.pdb
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\obj\Debug\netcoreapp3.1\GovConsumer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\obj\Debug\netcoreapp3.1\GovConsumer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\obj\Debug\netcoreapp3.1\GovConsumer.csproj.CopyComplete
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\obj\Debug\netcoreapp3.1\GovConsumer.dll
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\obj\Debug\netcoreapp3.1\GovConsumer.pdb
+F:\C#\RabbitMQ\TopicExchange\GovConsumer\obj\Debug\netcoreapp3.1\GovConsumer.genruntimeconfig.cache

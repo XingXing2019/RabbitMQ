@@ -1,0 +1,13 @@
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\bin\Debug\netcoreapp3.1\TopicExchange.exe
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\bin\Debug\netcoreapp3.1\TopicExchange.deps.json
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\bin\Debug\netcoreapp3.1\TopicExchange.runtimeconfig.json
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\bin\Debug\netcoreapp3.1\TopicExchange.runtimeconfig.dev.json
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\bin\Debug\netcoreapp3.1\TopicExchange.dll
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\bin\Debug\netcoreapp3.1\TopicExchange.pdb
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\obj\Debug\netcoreapp3.1\TopicExchange.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\obj\Debug\netcoreapp3.1\TopicExchange.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\obj\Debug\netcoreapp3.1\TopicExchange.AssemblyInfo.cs
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\obj\Debug\netcoreapp3.1\TopicExchange.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\obj\Debug\netcoreapp3.1\TopicExchange.dll
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\obj\Debug\netcoreapp3.1\TopicExchange.pdb
+F:\C#\RabbitMQ\TopicExchange\TopicExchange\obj\Debug\netcoreapp3.1\TopicExchange.genruntimeconfig.cache

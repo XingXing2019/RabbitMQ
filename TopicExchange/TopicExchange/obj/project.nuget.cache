@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBtIV6Lzph8sbHTntBCmDm9Tjfj3DDdsRCKKTR/RWmOmi29F+1+QBK6OwYEgq+Xev7kggeodr13IfFb5V7qw3A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\RabbitMQ\\TopicExchange\\TopicExchange\\TopicExchange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
