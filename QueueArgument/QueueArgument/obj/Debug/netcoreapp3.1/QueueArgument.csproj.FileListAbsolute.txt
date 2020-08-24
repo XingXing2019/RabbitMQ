@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\bin\Debug\netcoreapp3.1\QueueArgument.exe
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\bin\Debug\netcoreapp3.1\QueueArgument.deps.json
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\bin\Debug\netcoreapp3.1\QueueArgument.runtimeconfig.json
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\bin\Debug\netcoreapp3.1\QueueArgument.runtimeconfig.dev.json
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\bin\Debug\netcoreapp3.1\QueueArgument.dll
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\bin\Debug\netcoreapp3.1\QueueArgument.pdb
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\obj\Debug\netcoreapp3.1\QueueArgument.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\obj\Debug\netcoreapp3.1\QueueArgument.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\obj\Debug\netcoreapp3.1\QueueArgument.AssemblyInfo.cs
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\obj\Debug\netcoreapp3.1\QueueArgument.dll
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\obj\Debug\netcoreapp3.1\QueueArgument.pdb
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\obj\Debug\netcoreapp3.1\QueueArgument.genruntimeconfig.cache
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\obj\Debug\netcoreapp3.1\QueueArgument.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\QueueArgument\QueueArgument\obj\Debug\netcoreapp3.1\QueueArgument.csproj.CopyComplete
