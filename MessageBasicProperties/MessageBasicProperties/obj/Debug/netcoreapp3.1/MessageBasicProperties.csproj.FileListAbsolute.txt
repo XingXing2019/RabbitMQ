@@ -1,0 +1,13 @@
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\bin\Debug\netcoreapp3.1\MessageBasicProperties.exe
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\bin\Debug\netcoreapp3.1\MessageBasicProperties.deps.json
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\bin\Debug\netcoreapp3.1\MessageBasicProperties.runtimeconfig.json
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\bin\Debug\netcoreapp3.1\MessageBasicProperties.runtimeconfig.dev.json
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\bin\Debug\netcoreapp3.1\MessageBasicProperties.dll
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\bin\Debug\netcoreapp3.1\MessageBasicProperties.pdb
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\obj\Debug\netcoreapp3.1\MessageBasicProperties.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\obj\Debug\netcoreapp3.1\MessageBasicProperties.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\obj\Debug\netcoreapp3.1\MessageBasicProperties.AssemblyInfo.cs
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\obj\Debug\netcoreapp3.1\MessageBasicProperties.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\obj\Debug\netcoreapp3.1\MessageBasicProperties.dll
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\obj\Debug\netcoreapp3.1\MessageBasicProperties.pdb
+F:\C#\RabbitMQ\MessageBasicProperties\MessageBasicProperties\obj\Debug\netcoreapp3.1\MessageBasicProperties.genruntimeconfig.cache

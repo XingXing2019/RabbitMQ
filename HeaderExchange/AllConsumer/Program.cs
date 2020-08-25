@@ -27,12 +27,6 @@ namespace AllConsumer
             // Create channel
             var channel = connection.CreateModel();
 
-            // Declare exchange
-            channel.ExchangeDeclare(exchange, ExchangeType.Headers, true, false, null);
-
-            // Declare queue
-            channel.QueueDeclare(allQueue, true, false, false, null);
-
             // Create header argument
             var dict = new Dictionary<string, object>();
             dict.Add("x-match", "all");
@@ -41,6 +35,9 @@ namespace AllConsumer
 
             // Declare exchange
             channel.ExchangeDeclare(exchange, ExchangeType.Headers, true, false, null);
+
+            // Declare queue
+            channel.QueueDeclare(allQueue, true, false, false, null);
 
             // Bind queue
             channel.QueueBind(allQueue, exchange, "", dict);
