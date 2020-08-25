@@ -1,1 +1,2 @@
 # RabbitMQ
+RabbitMQ study notes
