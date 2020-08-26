@@ -1,0 +1,13 @@
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\bin\Debug\netcoreapp3.1\ConsumerMode.exe
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\bin\Debug\netcoreapp3.1\ConsumerMode.deps.json
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\bin\Debug\netcoreapp3.1\ConsumerMode.runtimeconfig.json
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\bin\Debug\netcoreapp3.1\ConsumerMode.runtimeconfig.dev.json
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\bin\Debug\netcoreapp3.1\ConsumerMode.dll
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\bin\Debug\netcoreapp3.1\ConsumerMode.pdb
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\obj\Debug\netcoreapp3.1\ConsumerMode.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\obj\Debug\netcoreapp3.1\ConsumerMode.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\obj\Debug\netcoreapp3.1\ConsumerMode.AssemblyInfo.cs
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\obj\Debug\netcoreapp3.1\ConsumerMode.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\obj\Debug\netcoreapp3.1\ConsumerMode.dll
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\obj\Debug\netcoreapp3.1\ConsumerMode.pdb
+F:\C#\RabbitMQ\ConsumerMode\ConsumerMode\obj\Debug\netcoreapp3.1\ConsumerMode.genruntimeconfig.cache

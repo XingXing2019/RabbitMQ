@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "69+GjvSd96T8LDP11KG/N4z3w0mmIX1b85BFvCz6mjvXsxWv+3z6MA2MjaaLh/JcLwkoAKK+iYnB2TTNwJG2Dw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\RabbitMQ\\ConsumerMode\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512",
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1njnzj1D5ci3z6koFGp9vfbqZWW6jtHTbEmhG9HTcpitL6IvbvvG6tH4ki+mluJrT4aBNealT42mkNwmNng39w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\RabbitMQ\\ConsumerMode\\ConsumerMode\\ConsumerMode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

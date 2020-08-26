@@ -1,0 +1,15 @@
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\bin\Debug\netcoreapp3.1\EventingBasicConsumer.exe
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\obj\Debug\netcoreapp3.1\EventingBasicConsumer.csprojAssemblyReference.cache
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\obj\Debug\netcoreapp3.1\EventingBasicConsumer.AssemblyInfoInputs.cache
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\obj\Debug\netcoreapp3.1\EventingBasicConsumer.AssemblyInfo.cs
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\bin\Debug\netcoreapp3.1\EventingBasicConsumer.deps.json
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\bin\Debug\netcoreapp3.1\EventingBasicConsumer.runtimeconfig.json
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\bin\Debug\netcoreapp3.1\EventingBasicConsumer.runtimeconfig.dev.json
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\bin\Debug\netcoreapp3.1\EventingBasicConsumer.dll
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\bin\Debug\netcoreapp3.1\EventingBasicConsumer.pdb
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\obj\Debug\netcoreapp3.1\EventingBasicConsumer.csproj.CoreCompileInputs.cache
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\obj\Debug\netcoreapp3.1\EventingBasicConsumer.csproj.CopyComplete
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\obj\Debug\netcoreapp3.1\EventingBasicConsumer.dll
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\obj\Debug\netcoreapp3.1\EventingBasicConsumer.pdb
+F:\C#\RabbitMQ\ConsumerMode\EventingBasicConsumer\obj\Debug\netcoreapp3.1\EventingBasicConsumer.genruntimeconfig.cache
